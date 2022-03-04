@@ -1,3 +1,3 @@
-# FronEnd-Launch-X
+# Práctica 2
 
-Repositorio creado para almacenar las prácticas realizadas para la misión de FrontEnd de Launch-X
+Práctica de la semana 2 de la misión de Launch-X: HTML
